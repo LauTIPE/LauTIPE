@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lautaro Alarcón</h1>
 <h3 align="center">A passionate Android developer from Chile</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Android Studio and Kotlin**
 
 - 👯 I’m looking to collaborate on **Androids App's Proyects**
 
 - 🤝 I’m looking for help with **my programming skills**
-
-- 👨‍💻 All of my projects are available at [this profile](this profile)
 
 - 📫 How to reach me **lautaro.efi@gmail.com**
 
